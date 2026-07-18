@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"ob_GenericChessPiece",
+  "%Name":"ob_projectile",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ob_GenericChessPiece",
+  "name":"ob_projectile",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_projectile",
+    "path":"sprites/s_projectile/s_projectile.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

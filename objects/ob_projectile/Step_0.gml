@@ -1,0 +1,1 @@
+move_and_collide(0, 1, ob_dampiece)

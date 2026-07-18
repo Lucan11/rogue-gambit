@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ob_GenericChessPiece",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"ob_board_game_box",
+  "eventList":[],
   "managed":true,
-  "name":"ob_GenericChessPiece",
+  "name":"ob_board_game_box",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_board_game_box",
+    "path":"sprites/sp_board_game_box/sp_board_game_box.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
