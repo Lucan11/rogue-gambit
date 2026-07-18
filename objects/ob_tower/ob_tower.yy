@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ob_king",
+  "%Name":"ob_tower",
   "eventList":[],
   "managed":true,
-  "name":"ob_king",
+  "name":"ob_tower",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_king",
-    "path":"sprites/s_king/s_king.yy",
+    "name":"s_tower",
+    "path":"sprites/s_tower/s_tower.yy",
   },
   "spriteMaskId":null,
   "visible":true,

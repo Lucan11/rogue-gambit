@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ob_king",
+  "%Name":"ob_bisschop",
   "eventList":[],
   "managed":true,
-  "name":"ob_king",
+  "name":"ob_bisschop",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_king",
-    "path":"sprites/s_king/s_king.yy",
+    "name":"s_bisschop",
+    "path":"sprites/s_bisschop/s_bisschop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

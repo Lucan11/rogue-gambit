@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"ob_king",
+  "%Name":"ob_GenericChessPiece",
   "eventList":[],
   "managed":true,
-  "name":"ob_king",
+  "name":"ob_GenericChessPiece",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"ob_GenericChessPiece",
-    "path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"s_king",
-    "path":"sprites/s_king/s_king.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -26,8 +26,13 @@
   },
   "name":"first game (tutorial)",
   "resources":[
+    {"id":{"name":"ob_bisschop","path":"objects/ob_bisschop/ob_bisschop.yy",},},
     {"id":{"name":"ob_dampiece","path":"objects/ob_dampiece/ob_dampiece.yy",},},
+    {"id":{"name":"ob_GenericChessPiece","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},},
     {"id":{"name":"ob_king","path":"objects/ob_king/ob_king.yy",},},
+    {"id":{"name":"ob_pawn","path":"objects/ob_pawn/ob_pawn.yy",},},
+    {"id":{"name":"ob_queen","path":"objects/ob_queen/ob_queen.yy",},},
+    {"id":{"name":"ob_tower","path":"objects/ob_tower/ob_tower.yy",},},
     {"id":{"name":"obBoard","path":"objects/obBoard/obBoard.yy",},},
     {"id":{"name":"obExtras","path":"objects/obExtras/obExtras.yy",},},
     {"id":{"name":"obFlag","path":"objects/obFlag/obFlag.yy",},},
