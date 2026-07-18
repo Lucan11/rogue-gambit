@@ -1,6 +1,6 @@
 // Move
-var dx = lengthdir_x(speed, direction + selected_spread);
-var dy = lengthdir_y(speed, direction + selected_spread);
+var dx = lengthdir_x(speed, direction + direction_bullet + selected_spread);
+var dy = lengthdir_y(speed, direction + direction_bullet + selected_spread);
 move_and_collide(dx, dy, ob_dampiece);
 
 // Destroy if too far away

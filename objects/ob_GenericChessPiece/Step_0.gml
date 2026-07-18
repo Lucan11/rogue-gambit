@@ -1,4 +1,4 @@
-if (shoot) {
+if (shoot && obBoard.game_started) {
 	shoot = false
 	alarm[0] = game_get_speed(gamespeed_fps) / shots_per_second;
     instance_create_layer(
@@ -9,7 +9,9 @@ if (shoot) {
 		{
 			range: projectile_range,
 			spread: projectile_spread,
-			speed: projectile_speed
+			speed: projectile_speed,
+			damage: projectile_damage,
+			direction_bullet: projectile_direction
 		}
 	);
 }

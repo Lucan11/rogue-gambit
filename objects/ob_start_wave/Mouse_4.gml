@@ -1,0 +1,1 @@
+obBoard.game_started = true

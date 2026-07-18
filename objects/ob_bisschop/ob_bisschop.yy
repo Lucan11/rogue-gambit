@@ -1,10 +1,16 @@
 {
   "$GMObject":"",
   "%Name":"ob_bisschop",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"ob_bisschop",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ob_GenericChessPiece","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},"propertyId":{"name":"projectile_direction","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"315",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"ob_GenericChessPiece","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},"propertyId":{"name":"shots_per_second","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"1",},
+  ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
@@ -26,7 +32,9 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"left_right","filters":[],"listItems":[],"multiselect":false,"name":"left_right","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
