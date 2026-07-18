@@ -31,6 +31,7 @@
     {"id":{"name":"ob_dampiece","path":"objects/ob_dampiece/ob_dampiece.yy",},},
     {"id":{"name":"ob_GenericChessPiece","path":"objects/ob_GenericChessPiece/ob_GenericChessPiece.yy",},},
     {"id":{"name":"ob_king","path":"objects/ob_king/ob_king.yy",},},
+    {"id":{"name":"ob_knight","path":"objects/ob_knight/ob_knight.yy",},},
     {"id":{"name":"ob_pawn","path":"objects/ob_pawn/ob_pawn.yy",},},
     {"id":{"name":"ob_projectile","path":"objects/ob_projectile/ob_projectile.yy",},},
     {"id":{"name":"ob_queen","path":"objects/ob_queen/ob_queen.yy",},},
