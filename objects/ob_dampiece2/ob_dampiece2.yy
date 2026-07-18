@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obBoard",
-  "eventList":[],
+  "%Name":"ob_dampiece2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"ob_king","path":"objects/ob_king/ob_king.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obBoard",
+  "name":"ob_dampiece2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_dampiecePlaceholder",
+    "path":"sprites/s_dampiecePlaceholder/s_dampiecePlaceholder.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"p_pawn",
+  "closed":false,
+  "kind":0,
+  "name":"p_pawn",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":1.0,"x":128.0,"y":256.0,},
+    {"speed":1.0,"x":128.0,"y":192.0,},
+    {"speed":1.0,"x":255.75,"y":191.74707,},
+    {"speed":1.0,"x":256.75,"y":96.74707,},
+    {"speed":1.0,"x":128.0,"y":96.0,},
+    {"speed":1.0,"x":129.0,"y":33.0,},
+  ],
+  "precision":1,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
