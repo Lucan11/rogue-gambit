@@ -6,12 +6,12 @@ if (shoot && obBoard.game_started)
 	{
 		projectile_direction = 45
 		left_right = false
-		show_debug_message("Left");
+		//show_debug_message("Left");
 	} else 
 	{
 		projectile_direction = 315
 		left_right = true
-		show_debug_message("Right");
+		//show_debug_message("Right");
 	}
 }
 

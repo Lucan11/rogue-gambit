@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_stop_button",
-    "path":"sprites/s_stop_button/s_stop_button.yy",
+    "name":"s_empty_button",
+    "path":"sprites/s_empty_button/s_empty_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

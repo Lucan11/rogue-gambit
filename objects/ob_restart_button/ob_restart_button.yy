@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_restart_button",
-    "path":"sprites/s_restart_button/s_restart_button.yy",
+    "name":"s_empty_button",
+    "path":"sprites/s_empty_button/s_empty_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
