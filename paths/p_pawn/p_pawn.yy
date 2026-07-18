@@ -5,18 +5,14 @@
   "kind":0,
   "name":"p_pawn",
   "parent":{
-    "name":"Paths",
-    "path":"folders/Paths.yy",
+    "name":"paths",
+    "path":"folders/paths.yy",
   },
   "points":[
-    {"speed":1.0,"x":128.0,"y":256.0,},
-    {"speed":1.0,"x":128.0,"y":192.0,},
-    {"speed":1.0,"x":255.75,"y":191.74707,},
-    {"speed":1.0,"x":256.75,"y":96.74707,},
-    {"speed":1.0,"x":128.0,"y":96.0,},
-    {"speed":1.0,"x":129.0,"y":33.0,},
+    {"speed":100.0,"x":32.0,"y":288.0,},
+    {"speed":100.0,"x":32.0,"y":160.0,},
   ],
-  "precision":1,
+  "precision":4,
   "resourceType":"GMPath",
   "resourceVersion":"2.0",
 }

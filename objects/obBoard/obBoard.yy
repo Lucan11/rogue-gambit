@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_BoardPlaceholder",
+    "path":"sprites/s_BoardPlaceholder/s_BoardPlaceholder.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

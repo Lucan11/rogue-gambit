@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"paths","folderPath":"folders/paths.yy","name":"paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,6 +36,7 @@
     {"id":{"name":"ob_pawn","path":"objects/ob_pawn/ob_pawn.yy",},},
     {"id":{"name":"ob_projectile","path":"objects/ob_projectile/ob_projectile.yy",},},
     {"id":{"name":"ob_queen","path":"objects/ob_queen/ob_queen.yy",},},
+    {"id":{"name":"ob_spawner","path":"objects/ob_spawner/ob_spawner.yy",},},
     {"id":{"name":"ob_tower","path":"objects/ob_tower/ob_tower.yy",},},
     {"id":{"name":"obBoard","path":"objects/obBoard/obBoard.yy",},},
     {"id":{"name":"obExtras","path":"objects/obExtras/obExtras.yy",},},
@@ -42,6 +44,7 @@
     {"id":{"name":"obGround","path":"objects/obGround/obGround.yy",},},
     {"id":{"name":"obPlayer","path":"objects/obPlayer/obPlayer.yy",},},
     {"id":{"name":"obSpike","path":"objects/obSpike/obSpike.yy",},},
+    {"id":{"name":"p_pawn","path":"paths/p_pawn/p_pawn.yy",},},
     {"id":{"name":"boardgame","path":"rooms/boardgame/boardgame.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
