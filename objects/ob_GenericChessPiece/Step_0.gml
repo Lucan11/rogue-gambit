@@ -6,6 +6,10 @@ if (shoot) {
 		y + 15, 
 		"Instances_enemy", 
 		ob_projectile,
-		{projectile_range: projectile_range}
+		{
+			range: projectile_range,
+			spread: projectile_spread,
+			speed: projectile_speed
+		}
 	);
 }
