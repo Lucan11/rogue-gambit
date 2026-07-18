@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sp_board_game_box",
-    "path":"sprites/sp_board_game_box/sp_board_game_box.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

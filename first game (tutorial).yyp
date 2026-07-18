@@ -67,7 +67,6 @@
     {"id":{"name":"s_stop_button_1","path":"sprites/s_stop_button_1/s_stop_button_1.yy",},},
     {"id":{"name":"s_stop_button","path":"sprites/s_stop_button/s_stop_button.yy",},},
     {"id":{"name":"s_tower","path":"sprites/s_tower/s_tower.yy",},},
-    {"id":{"name":"sp_board_game_box","path":"sprites/sp_board_game_box/sp_board_game_box.yy",},},
     {"id":{"name":"spBG1","path":"sprites/spBG1/spBG1.yy",},},
     {"id":{"name":"spBG2","path":"sprites/spBG2/spBG2.yy",},},
     {"id":{"name":"spFlag","path":"sprites/spFlag/spFlag.yy",},},
